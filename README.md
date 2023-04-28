@@ -6,3 +6,11 @@ Built a classifier for cervical cancer screening prediction using the Kaggle dat
 
 Performed BINARY CLASSIFICATION for each of the 4 target variables
 individually namely Hinselmann, Schiller, Cytology and Biopsy using two classifiers: SVM and KNN.
+
+## Steps Performed:
+
+### Data Preprocessing
+### Data Balancing
+### Feature Extraction
+### Classifier
+### Evaluation
