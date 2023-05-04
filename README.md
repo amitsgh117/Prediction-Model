@@ -17,7 +17,7 @@ individually namely Hinselmann, Schiller, Cytology and Biopsy using two classifi
 
 ### Data Balancing
 
-- Used SMOTE to balance the classes.
+- Used SMOTE to balance the classes
 
 ### Feature Extraction
 
